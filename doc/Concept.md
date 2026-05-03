@@ -33,7 +33,7 @@ kubectl top pod -A
 ```
 
 **minikube demo**
-![Image](doc/demo_minikube.gif)
+![Image](demo_minikube.gif)
 
 
 # kind
@@ -61,7 +61,7 @@ kubectl run curl-test --rm -it --image=curlimages/curl -- curl -s http://hello-s
 ```
 
 **kind demo**
-![Image](doc/demo_kind.gif)
+![Image](demo_kind.gif)
 
 
 # k3d
@@ -83,4 +83,4 @@ kill $!
 ```
 
 **k3d demo**
-![Image](doc/demo_k3d.gif)
+![Image](demo_k3d.gif)
